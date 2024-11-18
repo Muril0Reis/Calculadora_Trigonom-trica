@@ -1,0 +1,3 @@
+menu.py: Arquivo principal para rodar o menu.
+calculos.py: Funções para cálculo de distâncias e ângulos.
+utils.py: Funções auxiliares, como validação ou mensagens.
